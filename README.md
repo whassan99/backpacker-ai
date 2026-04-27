@@ -1,14 +1,14 @@
-# Your Project Name
+# Backpacker AI
 
-A starter template for the AI Engineering Buildcamp capstone. Replace this README with a description of your own project.
+A RAG-based travel chatbot built for solo backpackers and budget travelers.
 
 ## The Problem
 
-Describe the problem your project solves and who has it. One or two sentences.
+Planning a budget trip is time-consuming and noisy — travel sites are packed with tourist-resort fluff, and the practical details a backpacker actually needs (real hostel costs, which bus to take, visa-on-arrival rules, street food spots) are buried or outdated. Solo travelers need fast, honest, ground-level answers, not sponsored listicles.
 
 ## What It Does
 
-Describe what the AI system does and a typical interaction. What does the user provide? What does the system return?
+The user asks a plain-language question about a destination — things like "How do I get from Bangkok to Chiang Mai on the cheap?", "Do I need a visa for Vietnam as a UK passport holder?", or "What's a realistic daily budget in Lisbon?" — and the system retrieves relevant backpacker-sourced data and returns a concise, no-fluff answer. No hotel recommendations, no tour packages. Just the practical info you need when you're living out of a single bag.
 
 ## Setup
 
